@@ -22,3 +22,13 @@ Para facilitar a navegação pelos artefatos gerados nesta sprint, os arquivos d
 | 🖼️ `NexTech-TinkercadPrint-GR5.png` | Captura de tela do circuito digital mapeado no ambiente de simulação virtual. |
 | 🔗 `NexTech-linkTinkercad-GR5.txt` | Link direto para acessar e testar o circuito interativo simulado no Autodesk Tinkercad. |
 | 🔗 `NexTech-linkCanva-GR5.txt` | Link de acesso aos slides e identidade visual utilizados na apresentação final da sprint. |
+| 🎞️ `NexTech-videoMaquete-GR5.mp4` | Vídeo com a maquete do projeto juntamente do arduino em funcionamento. |
+
+---
+
+## 🚀 Integrantes (NexTech)
+* **Danielli Gonçalves Martins** (Dev)
+* **Gabriel Martins Mandelli** (Dev)
+* **Thiago Marcelino Vieira** (Scrum Master)
+* **Vinícius dos Santos Ribeiro Antunes** (Product Owner)
+* **Vitor Rodrigues Santos** (Dev)
