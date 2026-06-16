@@ -1,1 +1,1 @@
-# projeto-final-GR5
+# Projeto Final: Semáforo Inteligente 🚦
