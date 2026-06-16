@@ -1,6 +1,6 @@
 # Projeto Final: Semáforo Inteligente 🚦
 
-Protótipo de semáforo inteligente com Arduino, automatizando a travessia segura de pedestres e pessoas com mobilidade reduzida via proximidade. Resolvendo o sistema das botoeiras.
+Protótipo de semáforo inteligente com Arduino, automatizando a travessia segura de pedestres via proximidade. Resolvendo o sistema das botoeiras.
 
 ---
 
